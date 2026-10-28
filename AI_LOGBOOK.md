@@ -46,7 +46,7 @@ Merancang variasi partikel floating emoji khusus untuk masing-masing kategori te
 
 Mengunjungi Situs Web Aktif:
 
-🔗 Tautan Web Aktif: https://username.github.io/gifty (Sesuaikan dengan tautan GitHub Pages kalian)
+🔗 Tautan Web Aktif: https://aannaa0993-cloud.github.io/gifftie/
 
 Langkah-langkah Membuat Hadiah Digital:
 
